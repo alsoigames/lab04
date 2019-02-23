@@ -1,0 +1,34 @@
+/* mystyle.css */
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono|Major+Mono+Display');
+
+body { 
+	font-family: 'Cutive Mono' , monospace;	
+	line-height: 2;
+	color: black; 
+	margin: 0; 
+	padding: 0;
+}
+
+h1 { 
+
+	font: bold 7em'Major Mono Display',monospace;
+    width: 200px;
+	
+	color: white;
+
+	}
+html { 
+	background: url(https://img.glyphs.co/img?src=aHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL3Jlc291cmNlcy9MaWdodC1QYXN0ZWwtQmx1cnJlZC1CYWNrZ3JvdW5kcy04MDB4NTE4LTEuanBn&q=90&enlarge=true&h=1036&w=1600) ;
+
+	padding: 0 175px 0 110px;  
+	margin: 0; 
+	position: relative;
+    }
+    
+.downloadBT{
+    height: 40px;
+    line-height: 35px;
+    padding-right: 10px;
+    width:100%;
+    display:table;
+}
